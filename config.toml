@@ -1,0 +1,7 @@
+baseurl = "http://anonymuse.github.io/incunable/"
+languageCode = "en-us"
+title =  "736f6369616c2070726f6f66"
+canonifyurls = true
+
+[Params]
+  Author = "Jesse White"
