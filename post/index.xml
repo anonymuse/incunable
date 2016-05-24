@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>736f6369616c2070726f6f66 </title>
+    <link>http://anonymuse.github.io/incunable/post/</link>
+    <language>en-us</language>
+    <author>Jesse White</author>
+    <rights>(C) 2016</rights>
+    <updated>2016-05-23 22:51:44 -0400 -0400</updated>
+
+    
+      
+        <item>
+          <title>ghostly international - ghostly swim 2</title>
+          <link>http://anonymuse.github.io/incunable/post/ghostly-swim-2/</link>
+          <pubDate>Mon, 23 May 2016 22:51:44 -0400</pubDate>
+          <author>Jesse White</author>
+          <guid>http://anonymuse.github.io/incunable/post/ghostly-swim-2/</guid>
+          <description></description>
+        </item>
+      
+    
+      
+        <item>
+          <title>martin nonstatic - granite</title>
+          <link>http://anonymuse.github.io/incunable/post/martin-nonstatic-granite/</link>
+          <pubDate>Tue, 12 Apr 2016 21:12:11 -0400</pubDate>
+          <author>Jesse White</author>
+          <guid>http://anonymuse.github.io/incunable/post/martin-nonstatic-granite/</guid>
+          <description></description>
+        </item>
+      
+    
+      
+        <item>
+          <title>max cooper - human</title>
+          <link>http://anonymuse.github.io/incunable/post/max-cooper-human/</link>
+          <pubDate>Fri, 01 Apr 2016 19:33:33 -0400</pubDate>
+          <author>Jesse White</author>
+          <guid>http://anonymuse.github.io/incunable/post/max-cooper-human/</guid>
+          <description></description>
+        </item>
+      
+    
+      
+        <item>
+          <title>mbongwana star - from kinshasa</title>
+          <link>http://anonymuse.github.io/incunable/post/mbongwana-star-from-kinshasa/</link>
+          <pubDate>Thu, 31 Mar 2016 22:26:25 -0400</pubDate>
+          <author>Jesse White</author>
+          <guid>http://anonymuse.github.io/incunable/post/mbongwana-star-from-kinshasa/</guid>
+          <description></description>
+        </item>
+      
+    
+      
+        <item>
+          <title>horizon fire - earthlight</title>
+          <link>http://anonymuse.github.io/incunable/post/horizon-fire-earthlight/</link>
+          <pubDate>Wed, 30 Mar 2016 20:58:43 -0400</pubDate>
+          <author>Jesse White</author>
+          <guid>http://anonymuse.github.io/incunable/post/horizon-fire-earthlight/</guid>
+          <description></description>
+        </item>
+      
+    
+      
+        <item>
+          <title>keybase</title>
+          <link>http://anonymuse.github.io/incunable/post/keybase/</link>
+          <pubDate>Mon, 28 Mar 2016 22:29:56 -0400</pubDate>
+          <author>Jesse White</author>
+          <guid>http://anonymuse.github.io/incunable/post/keybase/</guid>
+          <description>
+
+&lt;h3 id=&#34;keybase-proof:893cbc279a778b820c2448504e8cf50e&#34;&gt;Keybase proof&lt;/h3&gt;
+
+&lt;p&gt;I hereby claim:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;I am anonymuse on github.&lt;/li&gt;
+&lt;li&gt;I am anonymuse (&lt;a href=&#34;https://keybase.io/anonymuse&#34;&gt;https://keybase.io/anonymuse&lt;/a&gt;) on keybase.&lt;/li&gt;
+&lt;li&gt;I have a public key ASAaoTpalXTeWKFRAOAxEVCH2ZgbXo-0BKoqIB2K0DdJMgo&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;To claim this, I am signing this object:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-json&#34;&gt;{
+    &amp;quot;body&amp;quot;: {
+        &amp;quot;key&amp;quot;: {
+            &amp;quot;eldest_kid&amp;quot;: &amp;quot;0120ecd1e3bb721330739e43258190acdd18fd8d2ef345349de31ec15471aaf068730a&amp;quot;,
+            &amp;quot;host&amp;quot;: &amp;quot;keybase.io&amp;quot;,
+            &amp;quot;kid&amp;quot;: &amp;quot;01201aa13a5a9574de58a15100e031115087d9981b5e8fb404aa2a201d8ad03749320a&amp;quot;,
+            &amp;quot;uid&amp;quot;: &amp;quot;b5bca1d5e665b86988b572d6ea72da19&amp;quot;,
+            &amp;quot;username&amp;quot;: &amp;quot;anonymuse&amp;quot;
+        },
+        &amp;quot;service&amp;quot;: {
+            &amp;quot;name&amp;quot;: &amp;quot;github&amp;quot;,
+            &amp;quot;username&amp;quot;: &amp;quot;anonymuse&amp;quot;
+        },
+        &amp;quot;type&amp;quot;: &amp;quot;web_service_binding&amp;quot;,
+        &amp;quot;version&amp;quot;: 1
+    },
+    &amp;quot;client&amp;quot;: {
+        &amp;quot;name&amp;quot;: &amp;quot;keybase.io go client&amp;quot;,
+        &amp;quot;version&amp;quot;: &amp;quot;1.0.13&amp;quot;
+    },
+    &amp;quot;ctime&amp;quot;: 1459104305,
+    &amp;quot;expire_in&amp;quot;: 504576000,
+    &amp;quot;merkle_root&amp;quot;: {
+        &amp;quot;ctime&amp;quot;: 1459104222,
+        &amp;quot;hash&amp;quot;: &amp;quot;f3d6a3652f270090b834fcc80b6829525825bebe6ed8691f8fa36d07983718f9be5809e0e18dfc5b32c63eadd374ecec73081c644818ccc5fc0d6a
+0b273c07d1&amp;quot;,
+        &amp;quot;seqno&amp;quot;: 422953
+    },
+    &amp;quot;prev&amp;quot;: &amp;quot;aef1b6754c4b9dec42bce1f619affd15087868fa66ba3b507193a8ba5b32cc3c&amp;quot;,
+    &amp;quot;seqno&amp;quot;: 9,
+    &amp;quot;tag&amp;quot;: &amp;quot;signature&amp;quot;
+}
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;with the key &lt;a href=&#34;https://keybase.io/anonymuse&#34;&gt;ASAaoTpalXTeWKFRAOAxEVCH2ZgbXo-0BKoqIB2K0DdJMgo&lt;/a&gt;, yielding the signature:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;g6Rib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgGqE6WpV03lihUQDgMRFQh9mYG16PtASqKiAditA3STIKp3BheWxvYWTFAu57ImJvZHkiOnsia2V5Ijp7ImVsZGV
+zdF9raWQiOiIwMTIwZWNkMWUzYmI3MjEzMzA3MzllNDMyNTgxOTBhY2RkMThmZDhkMmVmMzQ1MzQ5ZGUzMWVjMTU0NzFhYWYwNjg3MzBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLC
+JraWQiOiIwMTIwMWFhMTNhNWE5NTc0ZGU1OGExNTEwMGUwMzExMTUwODdkOTk4MWI1ZThmYjQwNGFhMmEyMDFkOGFkMDM3NDkzMjBhIiwidWlkIjoiYjViY2ExZDVlNjY1Yjg2O
+Tg4YjU3MmQ2ZWE3MmRhMTkiLCJ1c2VybmFtZSI6ImFub255bXVzZSJ9LCJzZXJ2aWNlIjp7Im5hbWUiOiJnaXRodWIiLCJ1c2VybmFtZSI6ImFub255bXVzZSJ9LCJ0eXBlIjoi
+d2ViX3NlcnZpY2VfYmluZGluZyIsInZlcnNpb24iOjF9LCJjbGllbnQiOnsibmFtZSI6ImtleWJhc2UuaW8gZ28gY2xpZW50IiwidmVyc2lvbiI6IjEuMC4xMyJ9LCJjdGltZSI
+6MTQ1OTEwNDMwNSwiZXhwaXJlX2luIjo1MDQ1NzYwMDAsIm1lcmtsZV9yb290Ijp7ImN0aW1lIjoxNDU5MTA0MjIyLCJoYXNoIjoiZjNkNmEzNjUyZjI3MDA5MGI4MzRmY2M4MG
+I2ODI5NTI1ODI1YmViZTZlZDg2OTFmOGZhMzZkMDc5ODM3MThmOWJlNTgwOWUwZTE4ZGZjNWIzMmM2M2VhZGQzNzRlY2VjNzMwODFjNjQ0ODE4Y2NjNWZjMGQ2YTBiMjczYzA3Z
+DEiLCJzZXFubyI6NDIyOTUzfSwicHJldiI6ImFlZjFiNjc1NGM0YjlkZWM0MmJjZTFmNjE5YWZmZDE1MDg3ODY4ZmE2NmJhM2I1MDcxOTNhOGJhNWIzMmNjM2MiLCJzZXFubyI6
+OSwidGFnIjoic2lnbmF0dXJlIn2jc2lnxEARiJ9EBknvdFTcUZcZd5R8kepJnZV0KjGuLH4uL+E30jzbrZx8mL9ni4uCjP3YKVzXFP74jwfA6GvKHKQk8nEDqHNpZ190eXBlIKN
+0YWfNAgKndmVyc2lvbgE=
+
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;And finally, I am proving ownership of the github account by posting this as a gist.&lt;/p&gt;
+
+&lt;h3 id=&#34;my-publicly-auditable-identity:893cbc279a778b820c2448504e8cf50e&#34;&gt;My publicly-auditable identity:&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://keybase.io/anonymuse&#34;&gt;https://keybase.io/anonymuse&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;from-the-command-line:893cbc279a778b820c2448504e8cf50e&#34;&gt;From the command line:&lt;/h3&gt;
+
+&lt;p&gt;Consider the &lt;a href=&#34;https://keybase.io/download&#34;&gt;keybase command line program&lt;/a&gt;.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;# look me up
+keybase id anonymuse
+&lt;/code&gt;&lt;/pre&gt;
+</description>
+        </item>
+      
+    
+
+  </channel>
+</rss>
